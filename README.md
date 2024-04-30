@@ -18,9 +18,9 @@ This is a curated collection of papers about ``deep learning applications`` in b
 - [Research group](#research-group)
 
 ## Guidelines or reviews for deep learning applications
-1. [2022 Nature Reviews Genetics]**Navigating the pitfalls of applying machine learning in genomics**[[paper]](https://doi.org/10.1038/s41576-021-00434-9)
+1. [2021 Nature Reviews Genetics]**Navigating the pitfalls of applying machine learning in genomics**[[paper]](https://doi.org/10.1038/s41576-021-00434-9)
 
-2. [2023 Nature Reviews Genetics]**Obtaining genetics insights from deep learning via explainable artificial intelligence**[[paper]](https://doi.org/10.1038/s41576-022-00532-2)
+2. [2022 Nature Reviews Genetics]**Obtaining genetics insights from deep learning via explainable artificial intelligence**[[paper]](https://doi.org/10.1038/s41576-022-00532-2)
 
 ## Genome
 1. [2023 Nature Genetics]**Inference of chronic obstructive pulmonary disease with deep learning on raw spirograms identifies new genetic loci and improves risk models**[[paper]](https://doi.org/10.1038/s41588-023-01372-4)[[code]](https://github.com/Google-Health/genomics-research/tree/main/ml-based-copd)
