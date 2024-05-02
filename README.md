@@ -17,7 +17,7 @@ This is a curated collection of papers about ``deep learning applications`` in b
 - [Multiomics](#multiomics)
 - [Radiomics](#radiomics)
 - [Benchmarks](#benchmarks)
-- [Research group](#research-group)
+- [Research group and people](#research-group-and-people)
 
 
 ## Guidelines or reviews for deep learning applications
