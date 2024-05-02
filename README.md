@@ -64,4 +64,4 @@ This is a curated collection of papers about ``deep learning applications`` in b
 
 # Contact
 
-[ Email：mumdark, 酩酊 ](ningyan1212@gmail.com)
+<a href="mailto:ningyan1212@gmail.com">Email：mumdark &nbsp;酩酊</a>
