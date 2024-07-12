@@ -40,6 +40,7 @@ This is a curated collection of papers about ``deep learning applications`` in b
 
 ## Proteome
 1.  [2017 PNAS]**De novo peptide sequencing by deep learning**[[paper]](https://doi.org/10.1073/pnas.1705691114)[[code]](https://github.com/nh2tran/DeepNovo)
+2.  [2022 Briefings in Bioinformatics]**Learning spatial structures of proteins improves protein–protein interaction prediction**[[paper]](https://doi.org/10.1093/bib/bbab558)[[code]](https://github.com/xzenglab/TAGPPI/tree/main)
 
 ## Metabolomics
 1.  [2022 Nature Medicine]**Metabolomic profiles predict individual multidisease outcomes**[[paper]](https://doi.org/10.1038/s41591-022-01980-3)[[code]](https://github.com/thbuerg/MetabolomicsCommonDiseases)
@@ -49,6 +50,7 @@ This is a curated collection of papers about ``deep learning applications`` in b
 
 ## Multiomics
 1.  [2023 Nature Methods]**Dictys: dynamic gene regulatory network dissects developmental continuum with single-cell multiomics**[[paper]](https://doi.org/10.1038/s41592-023-01971-3)[[code]](https://github.com/pinellolab/dictys)
+2.  [2024 Genome Biology]**TMO-Net: an explainable pretrained multi-omics model for multi-task learning in oncology**[[paper]](https://doi.org/10.1186/s13059-024-03293-9)[[code]](https://github.com/FengAoWang/TMO-Net)
 
 ## Radiomics
 
