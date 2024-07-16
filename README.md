@@ -3,7 +3,11 @@
 
 # Awesome-Deep-Learning-in-Biology-and-Disease-Papers <img src="./lattice1.png" align="right" height="200" />
 
+> **"Don't reinvent the wheel"**
+
 This is a curated collection of papers about ``deep learning applications`` in biology and disease, each providing code for learning or reproducibility purposes.
+
+Feel free to visit this repository from time to time for inspiration. Good luck with your research!
 
 ## Table of Contents
 
