@@ -42,6 +42,8 @@ Feel free to visit this repository from time to time for inspiration. Good luck 
 
 2. [2023 Nature Biotechnology | <ins style="color: green;"><u>  GNN + Matrix Factorization </u></ins>]: **Supervised discovery of interpretable gene programs from single-cell data**[[paper]](https://doi.org/10.1038/s41587-023-01940-3)[[code]](https://github.com/dpeerlab/spectra/)
 
+3. [2022 Nature Communications | <ins style="color: green;"><u>  DAE + MLP classification + DaNN </u></ins>]: **Deep transfer learning of cancer drug responses by integrating bulk and single-cell RNA-seq data**[[paper]](https://doi.org/10.1038/s41467-022-34277-7)[[code]](https://github.com/OSU-BMBL/scDEAL)
+
 ## Epigenome
 1. 
 
@@ -74,13 +76,19 @@ Feel free to visit this repository from time to time for inspiration. Good luck 
 ## List of Abbreviations
 - MLP: Multilayer Perceptron
 - ResNet: Residual neural network
+- CNN: Convolutional Neural Network
+- LSTM: Long Short Term Memory networks
 - AE: Autoencoder
+- DAE: Denoising autoencoder
 - VAE: Variational Autoencoder
 - GVAE: Graph Variational Autoencoder
-- CNN: Convolutional Neural Network
-- GAT: Graph Attention Network
 - GAN: Generative Adversarial Network
+- DaNN: Domain-Adversarial Training of Neural Networks
+- GCN: Graph Convolutional Networks
+- GAT: Graph Attention Network
 
 ## Contact
 
-<a href="mailto:ningyan1212@gmail.com">Email：mumdark &nbsp;酩酊</a>
+Email：<a href="mailto:ningyan1212@gmail.com">mumdark &nbsp;酩酊</a>
+
+Twitter: <a href="https://twitter.com/darkmum2">@酩酊</a>
