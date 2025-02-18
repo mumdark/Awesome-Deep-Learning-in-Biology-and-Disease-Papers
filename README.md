@@ -90,5 +90,3 @@ Feel free to visit this repository from time to time for inspiration. Good luck 
 ## Contact
 
 Email：<a href="mailto:ningyan1212@gmail.com">mumdark &nbsp;酩酊</a>
-
-Twitter: <a href="https://twitter.com/darkmum2">@酩酊</a>
